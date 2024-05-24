@@ -84,15 +84,15 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "8",
+        "challengeName": "Sleep",
+        "source": "LeetCode",
+        "languageSolved": "JavaScript",
+        "dateSolved": "May 23rd, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://leetcode.com/problems/sleep/",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/JavaScript/LeetCode/sleep.js",
         "groupSolvedLink": ""
     },
     {
