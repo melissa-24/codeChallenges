@@ -108,6 +108,18 @@
         "groupSolvedLink": ""
     },
     {
+        "id": "10",
+        "challengeName": "Counting Sheep",
+        "source": "CodeWars",
+        "languageSolved": "Python",
+        "dateSolved": "June 7th, 2024",
+        "isTemplate": false,
+        "group_solved": false,
+        "challengeSourceLink": "https://www.codewars.com/kata/5b077ebdaf15be5c7f000077",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/CodeWars/CountSheep.py",
+        "groupSolvedLink": ""
+    },
+    {
         "id": "",
         "challengeName": "",
         "source": "",
