@@ -8,7 +8,16 @@
 # loop through numbers starting at 1 to provided number and add a space and sheep... but possibly no space at the end of sheep...
 # always valid and no negative is given
 
-def count_sheep(n):
-    print('what is n', n)
+print('hello')
 
-count_sheep('3')
+def count_sheep(n):
+    result = ''
+    i = 1
+    while(i <= n):
+        print(i)
+        res = str(i) + " sheep..."
+        result = result + res
+        i = i+1
+    return result
+
+print(count_sheep(3))
