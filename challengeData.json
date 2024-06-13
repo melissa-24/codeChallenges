@@ -120,15 +120,15 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "11",
+        "challengeName": "Sort My Textbooks",
+        "source": "CodeWars",
+        "languageSolved": "Python",
+        "dateSolved": "June 12th, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://learnpython.com/blog/sort-alphabetically-in-python/",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/CodeWars/SortMyTextbooks.py",
         "groupSolvedLink": ""
     },
     {
