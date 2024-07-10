@@ -120,15 +120,15 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "11",
+        "challengeName": "Ultimate Array Reverser",
+        "source": "CodeWars",
+        "languageSolved": "JavaScript",
+        "dateSolved": "July 10th, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codewars.com/kata/5c3433a4d828182e420f4197",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/JavaScript/CodeWars/UltimateArrayReverser.js",
         "groupSolvedLink": ""
     },
     {
