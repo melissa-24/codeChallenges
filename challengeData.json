@@ -121,6 +121,18 @@
     },
     {
         "id": "11",
+        "challengeName": "Sort My Textbooks",
+        "source": "CodeWars",
+        "languageSolved": "Python",
+        "dateSolved": "June 12th, 2024",
+        "isTemplate": false,
+        "group_solved": false,
+        "challengeSourceLink": "https://learnpython.com/blog/sort-alphabetically-in-python/",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/CodeWars/SortMyTextbooks.py",
+        "groupSolvedLink": ""
+    },
+    {
+        "id": "12",
         "challengeName": "Ultimate Array Reverser",
         "source": "CodeWars",
         "languageSolved": "JavaScript",
@@ -129,18 +141,6 @@
         "group_solved": false,
         "challengeSourceLink": "https://www.codewars.com/kata/5c3433a4d828182e420f4197",
         "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/JavaScript/CodeWars/UltimateArrayReverser.js",
-        "groupSolvedLink": ""
-    },
-    {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
-        "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
         "groupSolvedLink": ""
     },
     {
