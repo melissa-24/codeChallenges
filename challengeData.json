@@ -132,27 +132,27 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
+        "id": "12",
+        "challengeName": "Ultimate Array Reverser",
+        "source": "CodeWars",
+        "languageSolved": "JavaScript",
+        "dateSolved": "July 10th, 2024",
+        "isTemplate": false,
+        "group_solved": false,
+        "challengeSourceLink": "https://www.codewars.com/kata/5c3433a4d828182e420f4197",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/JavaScript/CodeWars/UltimateArrayReverser.js",
+        "groupSolvedLink": ""
+    },
+    {
+        "id": "13",
         "challengeName": "Clothes Size Number Converter",
         "source": "CodeWars",
         "languageSolved": "Python",
         "dateSolved": "July 12th, 2024",
-        "isTemplate": false,
+        "isTemplate": true,
         "group_solved": false,
         "challengeSourceLink": "https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c",
         "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/ClothSizeNumberConverter.py",
-        "groupSolvedLink": ""
-    },
-    {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
-        "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
         "groupSolvedLink": ""
     },
     {
