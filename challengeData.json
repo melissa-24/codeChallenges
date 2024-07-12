@@ -133,14 +133,14 @@
     },
     {
         "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "challengeName": "Clothes Size Number Converter",
+        "source": "CodeWars",
+        "languageSolved": "Python",
+        "dateSolved": "July 12th, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/ClothSizeNumberConverter.py",
         "groupSolvedLink": ""
     },
     {
