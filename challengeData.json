@@ -156,15 +156,15 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "14",
+        "challengeName": "Sort the gift code",
+        "source": "CodeWars",
+        "languageSolved": "Python",
+        "dateSolved": "July 15th, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/SortTheGiftCode.py",
         "groupSolvedLink": ""
     },
     {
