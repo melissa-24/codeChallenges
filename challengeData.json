@@ -168,15 +168,15 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "15",
+        "challengeName": "Summing A Numbers Digits",
+        "source": "CodeWars",
+        "languageSolved": "Python",
+        "dateSolved": "August 3rd, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codewars.com/kata/52f3149496de55aded000410",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/SummingANumbersDigits.py",
         "groupSolvedLink": ""
     },
     {
