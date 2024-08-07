@@ -1,3 +1,6 @@
+// https://www.codingame.com/clashofcode/clash/report/378650391a7f7c80ea2b31270b38c942dc03e52
+
+
 // 01 Test 1
 // Input
 // Expected output
