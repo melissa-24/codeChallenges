@@ -169,14 +169,14 @@
     },
     {
         "id": "15",
-        "challengeName": "Texting With Old School Mobile Phone",
+        "challengeName": "Summing A Numbers Digits",
         "source": "CodeWars",
         "languageSolved": "Python",
-        "dateSolved": "",
-        "isTemplate": true,
+        "dateSolved": "August 3rd, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "https://www.codewars.com/kata/5ca24526b534ce0018a137b5",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codewars.com/kata/52f3149496de55aded000410",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/SummingANumbersDigits.py",
         "groupSolvedLink": ""
     },
     {
@@ -216,14 +216,14 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
+        "id": "19",
+        "challengeName": "Texting With Old School Mobile Phone",
+        "source": "CodeWars",
+        "languageSolved": "Python",
         "dateSolved": "",
         "isTemplate": true,
         "group_solved": false,
-        "challengeSourceLink": "",
+        "challengeSourceLink": "https://www.codewars.com/kata/5ca24526b534ce0018a137b5",
         "challengeSolvedLink": "",
         "groupSolvedLink": ""
     },
