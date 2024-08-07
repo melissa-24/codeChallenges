@@ -152,7 +152,7 @@
         "isTemplate": true,
         "group_solved": false,
         "challengeSourceLink": "https://www.codewars.com/kata/667dfbaa4570b2db26aedc8c",
-        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/ClothSizeNumberConverter.py",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/CodeWars/ClothSizeNumberConverter.py",
         "groupSolvedLink": ""
     },
     {
@@ -164,7 +164,7 @@
         "isTemplate": false,
         "group_solved": false,
         "challengeSourceLink": "https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3",
-        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/SortTheGiftCode.py",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/CodeWars/SortTheGiftCode.py",
         "groupSolvedLink": ""
     },
     {
@@ -176,7 +176,7 @@
         "isTemplate": false,
         "group_solved": false,
         "challengeSourceLink": "https://www.codewars.com/kata/52f3149496de55aded000410",
-        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/SummingANumbersDigits.py",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/CodeWars/SummingANumbersDigits.py",
         "groupSolvedLink": ""
     },
     {
@@ -228,27 +228,27 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "20",
+        "challengeName": "2048",
+        "source": "Clash of Code",
+        "languageSolved": "Python",
+        "dateSolved": "August 6th, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codingame.com/clashofcode/clash/report/3786488e4a1cc727646b6d3c49d6b512ca48716",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/Python/ClashOfCode/01.py",
         "groupSolvedLink": ""
     },
     {
-        "id": "",
-        "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "id": "21",
+        "challengeName": "Reverse",
+        "source": "Clash of Code",
+        "languageSolved": "JavaScript",
+        "dateSolved": "August 6th, 2024",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
-        "challengeSolvedLink": "",
+        "challengeSourceLink": "https://www.codingame.com/clashofcode/clash/report/378650391a7f7c80ea2b31270b38c942dc03e52",
+        "challengeSolvedLink": "https://github.com/melissa-24/codeChallenges/blob/main/JavaScript/ClashOfCode/01.js",
         "groupSolvedLink": ""
     },
     {
