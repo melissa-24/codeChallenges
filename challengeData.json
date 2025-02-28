@@ -252,14 +252,14 @@
         "groupSolvedLink": ""
     },
     {
-        "id": "",
+        "id": "22",
         "challengeName": "",
-        "source": "",
-        "languageSolved": "",
-        "dateSolved": "",
-        "isTemplate": true,
+        "source": "Leet Code",
+        "languageSolved": "Python",
+        "dateSolved": "February 28th, 2025",
+        "isTemplate": false,
         "group_solved": false,
-        "challengeSourceLink": "",
+        "challengeSourceLink": "https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/1558617591/",
         "challengeSolvedLink": "",
         "groupSolvedLink": ""
     },
